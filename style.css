@@ -29,3 +29,26 @@ span{
 h1{
     font-size: 35px;
 }
+.midle-section{
+    display: flex;
+    background-image: url(images/7.png);
+}
+.link-button2{
+    background-image: linear-gradient(rgb(236, 4, 93), rgb(240, 0, 208));
+    padding: 8px 12px;
+    font-weight: 700px;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.change-heading{
+    color: tomato;
+}
+.city{
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.loram{
+    color:rgb(44, 0, 240)
+}
