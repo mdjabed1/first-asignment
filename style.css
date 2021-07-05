@@ -1,6 +1,31 @@
 body{
-
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
 }
 .top-section{
     display: flex;
+}
+span{
+    color: tomato;
+}
+.same-width{
+    width: 40%;
+    padding-left: 5%;
+    margin-top: 5%;
+}
+.same-width img{
+    width: 80%;
+    padding-bottom: 15%;
+    margin-top: 0;
+}
+.link-button{
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 70;
+    padding: 8px 15px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+h1{
+    font-size: 35px;
 }
